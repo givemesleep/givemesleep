@@ -29,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=givemesleep&show_icons=true&locale=en&layout=compact" alt="givemesleep" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=givemesleep&show_icons=true&locale=en" alt="givemesleep" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
