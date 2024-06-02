@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 📫 How to reach me in Discord : **devhusto**
+- 📫 Direct message me in Discord : **devhusto**
 
 - ⚡ Fun fact **I like coffee when it's cold**
 
