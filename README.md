@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=givemesleep&show_icons=true&locale=en" alt="givemesleep" /></p>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
