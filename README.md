@@ -21,7 +21,7 @@
         <img src="https://skillicons.dev/icons?i=github" />
     </a>
     <a href="https://leetcode.com/u/husto/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+        <img src="https://skillicons.dev/icons?i=leetcode" />
     </a>
     <a href="devhusto">
         <img src="https://skillicons.dev/icons?i=discord" />
