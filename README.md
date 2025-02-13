@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me : </h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel Framework**
 - 👨‍💻 All of my projects are available at [givemesleep.github.io](givemesleep.github.io)
 - 📫 How to reach me **devjbellen@gmail.com**
 - 📄 Know about my experiences [https://csta-bellen.tiiny.site](https://csta-bellen.tiiny.site)
