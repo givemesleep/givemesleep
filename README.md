@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20I'm%20Justice%20Mijares%20Bellen&height=100&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20I'm%20Justice%20Bellen&height=100&fontSize=40" />
 </p>
-
 <p align="center">Back-end Developer | LAMP Stack Enthusiast</p>
 
 <p align="center">
