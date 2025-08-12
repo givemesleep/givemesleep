@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Justice Mijares Bellen</h1>
-<p align="center">Back-end Developer | MERN Stack Enthusiast</p>
+<p align="center">Back-end Developer | LAMP Stack Enthusiast</p>
 
 <p align="center">
   <a href="https://givemesleep.github.io" target="_blank">
@@ -20,7 +20,7 @@
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,bash,mysql,bootstrap,html,css,git,github" />
 </p>
 
 ---
@@ -38,8 +38,7 @@
 
 Here are some of my notable projects:
 
-- **Project Name**: A brief description of what this project does and the technologies used.
-- **Project Name**: A brief description of what this project does and the technologies used.
+- **Membership & Loan Management System for Llampco**: A cooperative based system.
 
 For more projects, visit my [GitHub Repositories](https://github.com/givemesleep).
 
@@ -47,9 +46,7 @@ For more projects, visit my [GitHub Repositories](https://github.com/givemesleep
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Dev.to](https://dev.to/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/justicebellen/)
 
 ---
 
