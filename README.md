@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20I'm%20Justice%20Bellen&height=100&fontSize=40" />
 </p>
 
-<p align="center">PHP Laravel Developer</p>
+<p align="center">PHP-Laravel Developer</p>
 
 <p align="center">
   <a href="https://givemesleep.github.io" target="_blank">
