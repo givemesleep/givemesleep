@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:be.husto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-be.husto@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-devhusto@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
